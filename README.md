@@ -2,6 +2,8 @@
 
 An implementation of the [NewDES](https://en.wikipedia.org/wiki/NewDES) encryption algorithm.
 
+Code originally sourced from [wiretapped.net (archived)](https://web.archive.org/web/20080506105359/http://www.mirrors.wiretapped.net/security/cryptography/algorithms/newdes/)
+
 ## Usage
 
 Compile with `make`.
