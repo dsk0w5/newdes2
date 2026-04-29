@@ -1,0 +1,7 @@
+# License
+
+This repository contains code under different licenses:
+
+* All files, except as noted below, are dedicated to the **public domain** (0BSD). You can find the full text of the dedication in the file `LICENSE-0BSD.txt`.
+
+* The files `UUCODE.C` and `UUCODEPR.H` are licensed under the **BSD 4‑Clause License** ("Original BSD License"). The full text of that license is in `LICENSE-BSD-4-Clause.txt`, and the original copyright notice are included in the file headers thereof.
