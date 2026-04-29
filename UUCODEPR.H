@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 1983 Regents of the University of California.
+ * SPDX-License-Identifier: BSD-4-Clause
+ */
+
 #ifdef __STDC__
 # define	P(s) s
 #else

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 dsk0w5
+# SPDX-License-Identifier: 0BSD
+
 CC      = gcc
 CFLAGS  = -x c -std=gnu89 -Wall -Wno-implicit-function-declaration
 

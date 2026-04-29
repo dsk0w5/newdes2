@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 1990 Mark Riordan
+ * SPDX-License-Identifier: 0BSD
+ */
+
 /*--- getopt.c -- Routine to crack the command line.
  *
  *  Functionally equivalent to the "getopt" that comes with many

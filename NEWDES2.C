@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 1990 Mark Riordan
+ * SPDX-License-Identifier: 0BSD
+ */
+
 /*--- newdes2.c -- Program to implement the NEWDES algorithm.
  *
  *   See Robert Scott's article "Wide-open Encryption Design Offers

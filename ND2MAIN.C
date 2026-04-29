@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 1990 Mark Riordan
+ * SPDX-License-Identifier: 0BSD
+ */
+
+
 /*--- nd2main.c --  Main program for NEWDES2 encryption.
  *
  *  See NEWDES2.C

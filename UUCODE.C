@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 1983 Regents of the University of California.
+ * SPDX-License-Identifier: BSD-4-Clause
+ */
+
 /*--- uucode.c -- File containing uuencode/uudecode routines.
  *
  *  Adapted from Berkeley code by Mark Riordan   12 August 1990.

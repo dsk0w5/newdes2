@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 1990 Mark Riordan
+ * SPDX-License-Identifier: 0BSD
+ */
+
 #ifdef __STDC__
 # define	P(s) s
 #else
