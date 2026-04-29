@@ -10,7 +10,7 @@
  *
  *   Mark Riordan    12 August 1990.
  */
-#include "newdes2p.h"
+#include "NEWDES2P.H"
 
 #define SIZE_ROTOR	 256
 #define SIZE_KEY_UNRAV	 60

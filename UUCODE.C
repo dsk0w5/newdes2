@@ -3,7 +3,7 @@
  *  Adapted from Berkeley code by Mark Riordan   12 August 1990.
  */
 
-#include "uucodepr.h"
+#include "UUCODEPR.H"
 
 #if 0
 int uuencode(unsigned char *bufin,unsigned int nbytes,

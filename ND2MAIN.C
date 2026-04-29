@@ -18,8 +18,8 @@
 
 char author[] = "Mark Riordan  1100 Parker  Lansing MI  48912   Aug 1990";
 
-#include "newdespr.h"
-#include "uucodepr.h"
+#include "NEWDES2P.H"
+#include "UUCODEPR.H"
 
 #ifdef __STDC__
 #define P(s) s
